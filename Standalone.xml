@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication xmlns="http://www.cognitran.com/publication/standalone" xmlns:content="http://www.cognitran.com/publication/content" xmlns:controlled-content="http://www.cognitran.com/publication/controlled-content" xmlns:transient="http://www.cognitran.com/publication/transient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="HD_ISHEET" id="43510" xsi:schemaLocation="http://www.cognitran.com/publication/standalone http://www.cognitran.com/publication/standalone/isheet/hd-isheets-1.0.xsd" pageSize="full">
+   <name>DOCKING HARDWARE KIT</name>
+    <transient:issue-number>2015-04-07</transient:issue-number>
+    <transient:creation-date>2016-02-03</transient:creation-date>
+    <transient:lastModifiedDate>2016-04-15T01:48:10+01:00</transient:lastModifiedDate>
+    <transient:last-publication-date>2016-04-15</transient:last-publication-date>
+    <transient:brand-applicabilities>
+        <transient:brand id="413">
+            <transient:name>HD</transient:name>
+            <transient:code>HD</transient:code>
+        </transient:brand>
+    </transient:brand-applicabilities>
+    <transient:market-applicabilities>
+        <transient:market id="3991">
+            <transient:name>HDI</transient:name>
+            <transient:code>HDI</transient:code>
+        </transient:market>
+    </transient:market-applicabilities>
+    <transient:significant-dates>
+        <transient:significant-date name="Embargo Date">
+            <transient:value>2016-04-27</transient:value>
+        </transient:significant-date>
+    </transient:significant-dates>
+
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <content:section>
+      <content:title>GENERAL</content:title>
+      <content:section>
+         <content:title>Kit Number</content:title>
+         <content:paragraph>90201424</content:paragraph>
+      </content:section>
+      <content:section>
+         <content:title>Models</content:title>
+         <content:paragraph>For model fitment information, see the P&amp;A Retail Catalog or the Parts and Accessories section of www.harley-davidson.com (English only).</content:paragraph>
+      </content:section>
+      <content:section>
+         <content:title>Additional Parts Required</content:title>
+         <content:paragraph>Rear Turn-Signal relocation kit necessary for the installation of detachable saddlebags. See your dealer for a turn-signal relocation kit appropriate for your model motorcycle.</content:paragraph>
+         <content:paragraph>Loctite<content:superscript>®</content:superscript> 243 (Blue) Threadlocker and Sealant (part number 99642-97) is required for the proper installation of this kit.</content:paragraph>
+         <controlled-content:alert reference="333">
+            <?hd-alert no=00333a status=Approved?>
+         </controlled-content:alert>
+         <content:note>
+            <content:paragraph>This instruction sheet references service manual information. A service manual for your model motorcycle is required for this installation and is available from a Harley-Davidson dealer.</content:paragraph>
+         </content:note>
+      </content:section>
+      <content:section>
+         <content:title>Kit Contents</content:title>
+         <content:paragraph>See <content:graphic-link reference="3" use-bp="no"/> and <content:table-link reference="1" use-bp="no"/>.</content:paragraph>
+      </content:section>
+   </content:section>
+   <content:section>
+      <content:title>INSTALLATION</content:title>
+      <content:section>
+         <content:title>Remove</content:title>
+         <content:figure>
+            <content:title>Rear Fender Support</content:title>
+            <content:graphic reference="41233" width="half-page" id="1"/>
+            <content:callout>
+               <content:call-item>
+                  <content:call-label>1</content:call-label>
+                  <content:call-description>Screw (4)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>2</content:call-label>
+                  <content:call-description>Front docking point (2)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>3</content:call-label>
+                  <content:call-description>Rear docking point (2)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>4</content:call-label>
+                  <content:call-description>Locknut (2)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>5</content:call-label>
+                  <content:call-description>Clip nut (2)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>6</content:call-label>
+                  <content:call-description>Fender support cover (2)</content:call-description>
+               </content:call-item>
+            </content:callout>
+         </content:figure>
+         <content:list type="number">
+            <content:item>
+               <content:item-text>See <content:graphic-link reference="1" use-bp="no"/>. Remove the front screw (1) and locknut (4) from the rear-fender support cover (6). Discard the screw. Discard the stock locknut.</content:item-text>
+            </content:item>
+            <content:item>
+               <content:item-text>Remove the rear screw (1) and clip nut (5) from the rear fender support cover taking note of the orientation of the clip nut inside the fender supports. Discard the screw, but retain the clip nut.</content:item-text>
+            </content:item>
+            <content:item>
+               <content:item-text>Remove and relocate the rear turn-signals from the rear fender support covers (6) per instructions provided in the service manual and relocation kit.</content:item-text>
+            </content:item>
+         </content:list>
+      </content:section>
+      <content:section>
+         <content:title>Install</content:title>
+         <content:figure>
+            <content:title>Docking Hardware Stack-Up</content:title>
+            <content:graphic reference="41249" width="half-page" id="2"/>
+            <content:callout>
+               <content:call-item>
+                  <content:call-label>1</content:call-label>
+                  <content:call-description>Screw (4)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>2</content:call-label>
+                  <content:call-description>Docking point (4)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>3</content:call-label>
+                  <content:call-description>Docking point, rear (2)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>4</content:call-label>
+                  <content:call-description>Docking point, front (2)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>5</content:call-label>
+                  <content:call-description>Clip nut (2)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>6</content:call-label>
+                  <content:call-description>Locknut (2)</content:call-description>
+               </content:call-item>
+               <content:call-item>
+                  <content:call-label>7</content:call-label>
+                  <content:call-description>Spacer (4)</content:call-description>
+               </content:call-item>
+            </content:callout>
+         </content:figure>
+         <content:steps>
+            <content:step>
+               <content:step-text>See <content:graphic-link reference="2" use-bp="no"/>. Obtain a screw (1), front docking point (4), spacer (7) and locknut (6) removed earlier. Note the small diameter collar on one end of both docking points. <content:emphasis>For bikes with additional detachable kits:</content:emphasis> Use docking points (2) in place of spacer (7) for both front and rear installations.</content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>Place the spacer, then the docking points onto the screw threads as shown with collar end farthest from the screw head. Coat the last 4-6 screw threads with a few drops of Loctite 243 (Blue). Insert the screw into the forward rear fender support hole, fitting the collar on the docking point toward the hole.</content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>Thread the locknut onto the screw threads from underneath the fender. Tighten the locknut to <content:measure>
+                     <content:torque-set>
+                        <content:fastener/>
+                        <!--20 Nm-->
+                        <content:torque value="20" unit="Nm"/>
+                        <!--15 ft-lbs-->
+                        <content:torque-sae value="15" unit="ft.lb."/>
+                     </content:torque-set>
+                  </content:measure>.</content:step-text>
+               <content:measure>
+                  <content:torque-set>
+                     <content:fastener/>
+                     <!--20 Nm-->
+                     <content:torque value="20" unit="Nm"/>
+                     <!--15 ft-lbs-->
+                     <content:torque-sae value="15" unit="ft.lb."/>
+                  </content:torque-set>
+               </content:measure>
+            </content:step>
+            <content:step>
+               <content:step-text>Obtain a spacer (7), screw (1) and rear docking point (3) from the kit and clip nut (5) removed earlier. Note the small diameter collar on one end of both docking points. <content:emphasis>For bikes with additional detachable kits:</content:emphasis> Use docking points (2) in place of spacer (7) for both front and rear installations.</content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>Place the spacer, then the docking point onto the screw threads with collar end farthest from the screw head. Coat the last 4-6 screw threads with a few drops of Loctite 243 (Blue). Insert the screw into the rearmost rear fender support hole, fitting the collar on the rear docking point toward the hole.</content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>Install the clip nut onto the screw threads from underneath the fender. Install as noted earlier when disassembled. Tighten the screw to<content:measure>
+                     <content:torque-set>
+                        <content:fastener/>
+                        <!--20 Nm-->
+                        <content:torque value="20" unit="Nm"/>
+                        <!--15 ft-lbs-->
+                        <content:torque-sae value="15" unit="ft.lb."/>
+                     </content:torque-set>
+                  </content:measure>.</content:step-text>
+               <content:measure>
+                  <content:torque-set>
+                     <content:fastener/>
+                     <!--20 Nm-->
+                     <content:torque value="20" unit="Nm"/>
+                     <!--15 ft-lbs-->
+                     <content:torque-sae value="15" unit="ft.lb."/>
+                  </content:torque-set>
+               </content:measure>
+            </content:step>
+            <content:step>
+               <content:step-text>Repeat steps 1 through 6 for the opposite side. </content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>See <content:graphic-link reference="3" use-bp="no"/>. Obtain four screws (3), two spacers (4), (1/4 in (6.3 mm) thick) and one spacer (5), (1/8 in (3.2 mm) thick) from the kit and support arm (C), four lockwashers (E) and four flat washers (F) from saddlebag kit 90201328.</content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>Stack the three spacers with the thinner spacer sandwiched between the two other plastic spacers. Position the spacer stack relative to the support arm mount plate and against the saddlebag tub.</content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>Add a split, lockwasher and flat washer to each of the four screws (lockwasher against screw head). Coat the last 4-6 screw threads with a few drops of Loctite 243 (Blue).</content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>Insert the screws from inside the saddlebag, through the spacer stack and into the support arm threaded inserts. Insert and finger thread all four screws before tightening the screws. The spacer stack should fit directly against the saddlebag tub back and not pinch the leather upholstery.</content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>Torque all four screws to <content:measure>
+                     <content:torque-set>
+                        <content:fastener/>
+                        <!--6.7-10.2 Nm-->
+                        <content:torque value="6.7" unit="Nm"/>
+                        <content:range upper-limit="10.2"/>
+                        <!--60-90 in-lbs-->
+                        <content:torque-sae value="60" unit="in.lb."/>
+                        <content:range upper-limit="90"/>
+                     </content:torque-set>
+                  </content:measure>.</content:step-text>
+               <content:measure>
+                  <content:torque-set>
+                     <content:fastener/>
+                     <!--6.7-10.2 Nm-->
+                     <content:torque value="6.7" unit="Nm"/>
+                     <content:range upper-limit="10.2"/>
+                     <!--60-90 in-lbs-->
+                     <content:torque-sae value="60" unit="in.lb."/>
+                     <content:range upper-limit="90"/>
+                  </content:torque-set>
+               </content:measure>
+            </content:step>
+            <content:step>
+               <content:step-text>Repeat steps 8 through 12 for the opposite side saddlebag.</content:step-text>
+            </content:step>
+            <content:step>
+               <content:step-text>Mount both saddlebags to the outer pair of docking points and support arm docking clevis at the passenger footpeg location per instructions provided with the saddlebag kit.</content:step-text>
+            </content:step>
+         </content:steps>
+      </content:section>
+   </content:section>
+   <content:section>
+      <content:title>MAINTENANCE</content:title>
+      <content:figure>
+         <content:graphic reference="43082"/>
+      </content:figure>
+      <content:note>
+         <content:paragraph>In time, the docking points may wear causing the mating accessory to become loose. Tighten the fit by using the following procedure.</content:paragraph>
+      </content:note>
+      <content:list type="number">
+         <content:item>
+            <content:item-text>Loosen the docking hardware.</content:item-text>
+         </content:item>
+         <content:item>
+            <content:item-text>Rotate the docking points approximately a quarter turn (90 degree).</content:item-text>
+         </content:item>
+         <content:item>
+            <content:item-text>Tighten the docking hardware to the appropriate torque values as indicated in the installation procedures. This procedure can be repeated only <content:emphasis>once</content:emphasis> before replacement of the docking points is recommended.</content:item-text>
+            <content:note>
+               <content:paragraph>IF the co-molded plastic docking point surfaces appear cracked or if missing, replace the docking point immediately. Cracked or missing pieces result in more free play than can be eliminated by rotating the docking points.</content:paragraph>
+            </content:note>
+         </content:item>
+      </content:list>
+   </content:section>
+   <content:section>
+      <content:title>SERVICE PARTS</content:title>
+      <content:figure>
+         <content:title>Service Parts: Docking Hardware</content:title>
+         <content:graphic reference="41339" width="full-page" id="3"/>
+      </content:figure>
+      <content:table frame="all" pgwide="yes" id="1">
+         <content:title>Service Parts Table</content:title>
+         <content:tgroup cols="3">
+            <content:colspec colsep="no" align="left" colwidth="1*" colname="Item"/>
+            <content:colspec colsep="no" align="left" colwidth="12*" colname="DescriptionQty"/>
+            <content:colspec colsep="no" align="left" colwidth="3*" colname="PartNumber"/>
+            <content:thead valign="bottom">
+               <content:row rowsep="yes" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>Item</content:table-text>
+                  </content:entry>
+                  <content:entry align="center" namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Description (Quantity)</content:table-text>
+                  </content:entry>
+                  <content:entry align="center" namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>Part Number</content:table-text>
+                  </content:entry>
+               </content:row>
+            </content:thead>
+            <content:tbody valign="top">
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>1</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Button head cap screw, TORX<content:superscript>®</content:superscript>, 5/16-18 x 3 in. (4)</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>Not Sold Separately</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>2</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Docking point (6)</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>53942-04</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>3</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Button head cap screw, 1/4-20 x 1.25 in. (8)</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>2513</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>4</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Spacer, 1/4 in. thick, HDPE (4)</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>Not Sold Separately</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>5</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Spacer, 1/8 in. thick, HDPE (2)</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>Not Sold Separately</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>6</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Spacer, 0.75 ID .0375 OD x 0.75 LONGOD (4)</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>12400113</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>7</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Docking Point, Rear XL (2)</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>53943-04</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>8</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Flanged Locknut 5/16-18 (2)</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>7531</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry namest="Item" nameend="PartNumber">
+                     <content:table-text>
+                        <content:emphasis>Items mentioned in text, but not included in kit:</content:emphasis>
+                     </content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>A</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="PartNumber">
+                     <content:table-text>Saddlebag assembly, right and left</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>C</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Support arm 3<content:superscript>rd</content:superscript> point, saddlebag assembly</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>90201322</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>D</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Docking clip</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>52682-09</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>E</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Lock washer, split, 1/4 in.</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>7036</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>F</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Flat washer, wide, 1/4 in.</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>6235</content:table-text>
+                  </content:entry>
+               </content:row>
+               <content:row rowsep="no" valign="top">
+                  <content:entry align="center" namest="Item" nameend="Item">
+                     <content:table-text>H</content:table-text>
+                  </content:entry>
+                  <content:entry namest="DescriptionQty" nameend="DescriptionQty">
+                     <content:table-text>Clip nut, 5/16-18</content:table-text>
+                  </content:entry>
+                  <content:entry namest="PartNumber" nameend="PartNumber">
+                     <content:table-text>10323</content:table-text>
+                  </content:entry>
+               </content:row>
+            </content:tbody>
+         </content:tgroup>
+      </content:table>
+   </content:section>
+</publication>
